@@ -39,7 +39,7 @@ Clone the repository, build a VSIX file, and start working with the extension.
 1. Clone the repository by issuing the following command in your local command-line interface:
 
    ```shell
-   git clone https://github.com/zowe/zowe-explorer-vscode.git
+   git clone https://github.com/nano-chmod-x/MainFrame-zowe-explorer-vscode.git
    ```
 
 2. Change directories into the newly-cloned repository:
